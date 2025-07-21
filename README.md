@@ -15,7 +15,7 @@ python training/train_contrastive.py
 # (2) Baseline 학습
 python training/train_baseline.py
 
-# (3) Fine‑tune (SimCLR encoder freeze)
+# (3) Fine‑tune (SimCLR encoder)
 python training/train_finetune.py
 
 # (4) 평가 (accuracy / FPS)
